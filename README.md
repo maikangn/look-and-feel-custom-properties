@@ -3,7 +3,7 @@ Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uit
 De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
 # Naam deeltaak
-
+Ik heb custom properties met media queries toegepast op de living styleguide website http://oba-styleguide.student.fdnd.nl/.
 
 ## Licentie
 
